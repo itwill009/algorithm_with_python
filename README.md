@@ -1,1 +1,13 @@
-데이터 구조, 알고리즘, 코딩 테스트 준비
+### purpose
+
+study basic algorithms using python.
+
+### contents
+
+* selection sort
+* quick sort
+* binary search
+* recursion
+* graph
+* dijkstra
+* greedy
